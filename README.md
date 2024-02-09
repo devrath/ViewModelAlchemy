@@ -13,6 +13,13 @@
 </div>
 
 
+* `Theory`
+  * [`View Model and its features`](https://github.com/devrath/ViewModelAlchemy/wiki/View-Model-and-its-features)
+  * [`Internal working of view‐model`](https://github.com/devrath/ViewModelAlchemy/wiki/Internal-working-of-view%E2%80%90model)
+  * [`Activity Rotation vs Pressing Back Button`](https://github.com/devrath/ViewModelAlchemy/wiki/Activity-Rotation-vs-Pressing-Back-Button)
+
+
+
 
 
 ## **`𝚂𝚞𝚙𝚙𝚘𝚛𝚝`** ☕
