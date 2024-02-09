@@ -15,6 +15,9 @@ class ViewModelProviderActivity : AppCompatActivity() {
 
         // Use the ViewModelProvider with this Activity.
         val myViewModel = ViewModelProvider(this)[ViewModelProviderVM::class.java]
+
+        // Access the viewModel method
+        myViewModel.demo()
     }
 
     override fun onDestroy() {
