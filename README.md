@@ -18,7 +18,7 @@
   * [`Internal working of view‐model`](https://github.com/devrath/ViewModelAlchemy/wiki/Internal-working-of-view%E2%80%90model)
   * [`Activity Rotation vs Pressing Back Button`](https://github.com/devrath/ViewModelAlchemy/wiki/Activity-Rotation-vs-Pressing-Back-Button)
 * `Demo's`
-  * [`Demo: Using ViewModelProvider in xml`](https://github.com/devrath/ViewModelAlchemy/wiki/Demo:-Using-ViewModelProvider-in-xml) 
+  * [`Using ViewModelProvider in xml`](https://github.com/devrath/ViewModelAlchemy/wiki/Demo:-Using-ViewModelProvider-in-xml) 
 
 
 ## **`𝚂𝚞𝚙𝚙𝚘𝚛𝚝`** ☕
